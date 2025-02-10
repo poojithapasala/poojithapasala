@@ -16,9 +16,10 @@
 - **Retrieval-Augmented Generation (RAG)**: Combining retrieval-based methods with generative models for improved performance in open-domain tasks.
 
 ## 🛠️ Projects Worked
-- **[News Summarization System using LLMs](https://github.com/poojitha/news-summarization)**: Built an AI model for summarizing news articles using **Large Language Models**.
-- **[Fake Tweet Classification](https://info-523-exercises.github.io/project-final-The-Algo-Rhythms/)**: Developed a **NLP model** for detecting fake tweets using **transformer-based models**.
-- **[Healthcare Predictive Models](https://github.com/poojitha/healthcare-prediction)**: Implemented predictive models to analyze healthcare data for trends and outcomes.
+1.Tweet Analytics for Disaster & Calamity Management
+2.Revamping Movie and TV Show Review Classification using Logistic Regression
+3.Comparative Analysis of Generative Models for Thematic Poetic Creation
+4.Digital Stylometry for Authorship Identification using Machine Learning
 
 ## 🤝 I’m looking to collaborate on
 - **AI-based projects** in **Image Processing**, **NLP** and **Data Science Research**.
